@@ -1,7 +1,5 @@
 # IdleCode 🐍
 
-<!-- BADGES -->
-
 Welcome to **idle-code**! This is my personal playground and repository for small, single-file CLI (Command Line Interface) applications. I build these mini-projects to practice my programming logic, clean coding habits, and problem-solving skills.
 
 ## 🚀 Included Applications
