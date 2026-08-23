@@ -1,34 +1,52 @@
-# idle-code 🐍
+# IdleCode 🐍
 
-Welcome to **idle-code**! This is my personal playground and repository for small, single-file CLI (Command Line Interface) applications. I build these mini-projects to practice my programming logic, clean coding habits, and problem-solving skills.
+![Python](https://shields.io)
+![License](https://shields.io)
+![Maintained](https://shields.io)
 
-## 🚀 Projects Included
+Welcome to **idle-code**! This is my personal playground and repository for small, single-file CLI (Command Line Interface) applications. I build these to practice my programming logic, clean coding habits, and problem-solving skills.
 
-Here is a list of the applications available in this repository:
+---
 
-*   **`hangman_game.py`** – A classic word-guessing game played entirely in the terminal.
-*   **`chatbot_rule_based.py`** – A simple chatbot that responds to user inputs based on predefined rules.
-*   **`bmi_calculator.py`** – A quick health utility tool to calculate Body Mass Index based on user weight and height.
+## 🛠️ Project Directory
 
-## 🛠️ How to Run the Code
+| Application | Description |
+| :--- | :--- |
+| 🎮 **`hangman_game.py`** | Interactive word-guessing game with visual ASCII art. 
 
-To run any of these applications locally, follow these simple steps:
+---
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com
-    ```
-2.  **Navigate to the directory:**
-    ```bash
-    cd idle-code
-    ```
-3.  **Run your chosen application:**
-    ```bash
-    python hangman_game.py
-    ```
-    *(Note: Replace `python` with `python3` depending on your operating system environment).*
+## 🚀 Getting Started
 
-## 📈 Goals & Learning Objectives
-*   Master basic Python syntax and built-in libraries.
-*   Improve command-line user experience (UX).
-*   Maintain clean, readable, and well-commented single-file scripts.
+### Prerequisites
+Ensure you have Python 3.8 or higher installed on your system.
+```bash
+python --version
+```
+
+### Installation & Execution
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   ```
+2. **Change into the directory:**
+   ```bash
+   cd idle-code
+   ```
+3. **Launch an application:**
+   ```bash
+   python hangman_game.py
+   ```
+
+---
+
+## 🧠 Evolution & Best Practices
+
+Every script in this repository follows strict quality guidelines to ensure maximum readability and execution efficiency:
+
+*   **Zero External Dependencies:** Every app runs entirely on the Python Standard Library.
+*   **Robust Input Validation:** Scripts are guarded against unexpected user inputs to prevent crashes.
+*   **Self-Documenting Code:** Clean variable naming conventions and explicit docstrings are used throughout.
+
+---
+
