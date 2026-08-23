@@ -1,14 +1,20 @@
-# idle-code 🐍
+# IdleCode 🐍
+
+<!-- BADGES -->
+![GitHub repo size](https://shields.io)
+![GitHub last commit](https://shields.io)
+![Language](https://shields.io)
+![Maintenance](https://shields.io)
+![Built With Love](https://shields.io)
+
 
 Welcome to **idle-code**! This is my personal playground and repository for small, single-file CLI (Command Line Interface) applications. I build these mini-projects to practice my programming logic, clean coding habits, and problem-solving skills.
 
-## 🚀 Projects Included
+## 🚀 Included Applications
 
-Here is a list of the applications available in this repository:
-
-*   **`hangman_game.py`** – A classic word-guessing game played entirely in the terminal.
-*   **`chatbot_rule_based.py`** – A simple chatbot that responds to user inputs based on predefined rules.
-*   **`bmi_calculator.py`** – A quick health utility tool to calculate Body Mass Index based on user weight and height.
+| Project Name | Description | 
+| :--- | :--- | 
+| **🪓 Hangman Game** | Classic text-based word guessing game. | 
 
 ## 🛠️ How to Run the Code
 
@@ -20,7 +26,7 @@ To run any of these applications locally, follow these simple steps:
     ```
 2.  **Navigate to the directory:**
     ```bash
-    cd idle-code
+    cd idlecode
     ```
 3.  **Run your chosen application:**
     ```bash
