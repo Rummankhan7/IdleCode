@@ -1,12 +1,6 @@
 # IdleCode 🐍
 
 <!-- BADGES -->
-![GitHub repo size](https://shields.io)
-![GitHub last commit](https://shields.io)
-![Language](https://shields.io)
-![Maintenance](https://shields.io)
-![Built With Love](https://shields.io)
-
 
 Welcome to **idle-code**! This is my personal playground and repository for small, single-file CLI (Command Line Interface) applications. I build these mini-projects to practice my programming logic, clean coding habits, and problem-solving skills.
 
