@@ -7,7 +7,8 @@ Welcome to **idle-code**! This is my personal playground and repository for smal
 | Project Name | Description | 
 | :--- | :--- | 
 | **🪓 Hangman Game** | Classic text-based word guessing game. | 
-| **🪓 BMI Calculator** | Use your metrics to find how healthy you are. | 
+| **🧍 BMI Calculator** | Use your metrics to find how healthy you are. | 
+| **🤖 AlphaBot** | A rule based and lightweight chatbot made from spacy. | 
 
 ## 🛠️ How to Run the Code
 
