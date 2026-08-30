@@ -9,6 +9,7 @@ Welcome to **idle-code**! This is my personal playground and repository for smal
 | **🪓 Hangman Game** | Classic text-based word guessing game. | 
 | **🧍 BMI Calculator** | Use your metrics to find how healthy you are. | 
 | **🤖 AlphaBot** | A rule based and lightweight chatbot made from spacy. | 
+| **🔢 Number Guess** | A robust, crash-proof command line number guessing game | 
 
 ## 🛠️ How to Run the Code
 
