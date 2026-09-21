@@ -10,6 +10,8 @@ Welcome to **idle-code**! This is my personal playground and repository for smal
 | **🧍 BMI Calculator** | Use your metrics to find how healthy you are. | 
 | **🤖 AlphaBot** | A rule based and lightweight chatbot made from spacy. | 
 | **🔢 Number Guess** | A robust, crash-proof command line number guessing game | 
+| **📁 Directory Tree Generator** | A lightweight Python Command Line Interface (CLI) tool that maps out and generates a clean, readable visual file structure of any given directory path.
+ | 
 
 ## 🛠️ How to Run the Code
 
